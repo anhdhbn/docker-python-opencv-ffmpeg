@@ -1,0 +1,1 @@
+sudo docker image build -t anhdhbn/docker-python-opencv-ffmpeg -f Dockerfile-py3 .
